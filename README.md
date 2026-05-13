@@ -9,11 +9,6 @@ Sistema inteligente de monitoreo y control del consumo energético desarrollado 
 
 ## 👤 Autor
 - **Nombre:** Roger Andrés Sauméth Visbál
-- **Código:** 202016907_13
-- **Institución:** Universidad Nacional Abierta y a Distancia - UNAD
-- **Escuela:** ECBTI - Ingeniería de Sistemas
-- **Tutor:** Orlando Gómez Barboza
-- **Fecha:** Mayo 2026
 
 ## 🎯 Objetivos
 
