@@ -8,7 +8,7 @@
 Sistema inteligente de monitoreo y control del consumo energético desarrollado como proyecto de grado para la Universidad Nacional Abierta y a Distancia (UNAD). El sistema permite medir variables eléctricas en tiempo real, identificar patrones de consumo y ejecutar acciones de control automatizado.
 
 ## 👤 Autor
-- **Nombre:** Roger Andrés Sauméth Visbál
+- Roger Andrés Sauméth Visbál
 
 ## 🎯 Objetivos
 
