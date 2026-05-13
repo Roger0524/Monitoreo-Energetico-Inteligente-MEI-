@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📋 Descripción
-Sistema inteligente de monitoreo y control del consumo energético desarrollado como proyecto de grado para la Universidad Nacional Abierta y a Distancia (UNAD). El sistema permite medir variables eléctricas en tiempo real, identificar patrones de consumo y ejecutar acciones de control automatizado.
+Sistema inteligente de monitoreo y control del consumo energético. El sistema permite medir variables eléctricas en tiempo real, identificar patrones de consumo y ejecutar acciones de control automatizado.
 
 ## 👤 Autor
 - Roger Andrés Sauméth Visbál
