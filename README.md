@@ -1,4 +1,4 @@
-# Sistema Inteligente de Monitoreo y Control del Consumo Energético (MEI)
+# Monitoreo Energetico Inteligente (MEI)
 
 ![TRL](https://img.shields.io/badge/TRL-5-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
